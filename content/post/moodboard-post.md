@@ -1,9 +1,9 @@
 ---
 title: Tvorba moodboardu pro náš web
-date: 2019-04-16
+date: 2019-04-17
 tags: 
-    - beatles
-    - data
+    - moodboard
+    - design
 ---
 
 # Úvod
@@ -28,6 +28,8 @@ tags:
 
 ## Moodboard 2
 [![anicka567824aca1a98778.png](https://www.2i.cz/images/2019/04/17/anicka567824aca1a98778.png)](https://www.2i.cz/i/fhj1Z)
+
+ V moodboardu jsem se snažila zachytit estetiku webu, ukázku záhlaví a navigace. Také jaké písmo by bylo vhodné a jak označit články pro větší přehlednost.
 
 ## Moodboard 3
 [![paja.png](https://www.2i.cz/images/2019/04/17/paja.png)](https://www.2i.cz/i/fhkzM)
