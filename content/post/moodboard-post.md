@@ -1,12 +1,14 @@
 ---
 title: Tvorba moodboardu pro náš web
-date: 2019-04-16
+date: 2019-04-17
 tags: 
-    - beatles
-    - data
+    - moodboard
+    - design
 ---
 
 # Úvod
+Moodboards aneb, když tři rozliční lidé zakládají web
+V tomto článku najdete začátky našeho webu, když byl jeho vzhled ještě v plenkách a teprve získával pořádný web design. Vše podstatné se dozvíte níže od každé z nás, ykde najdete skutečnou diverzitu, jednak vizuální, ale i v praktickém popisu našich moodboardů.
 
 ## Moodboard 1
 
@@ -29,5 +31,8 @@ tags:
 ## Moodboard 2
 [![anicka567824aca1a98778.png](https://www.2i.cz/images/2019/04/17/anicka567824aca1a98778.png)](https://www.2i.cz/i/fhj1Z)
 
+ V moodboardu jsem se snažila zachytit estetiku webu, ukázku záhlaví a navigace. Také jaké písmo by bylo vhodné a jak označit články pro větší přehlednost.
+
 ## Moodboard 3
 [![paja.png](https://www.2i.cz/images/2019/04/17/paja.png)](https://www.2i.cz/i/fhkzM)
+V moodbordu jsem se snažila zachytit pár inspirativních prvků, které by se nám mohli hodit při tvorbě webu. Jako například barvy styli písma nebo inspirativní obrázky. Bohužel se srovna nejedná o vhodný vzhled pro web, můj moodbord má spíše inspirační účely. 
