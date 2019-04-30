@@ -7,6 +7,7 @@ menu:
   main:
     - name: Hlavní stránka
       url: /
+      googleAnalytics: "UA-139302584-2"
       weight: 10
     - name: Archív
       identifier: post
