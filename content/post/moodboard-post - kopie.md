@@ -16,7 +16,7 @@ V tom to článku jsme se pokusili shrnout další externí zdroje, které by mo
 
 
 ## Názorné obrázky
-https://www.prosikulky.cz/
+(https://www.prosikulky.cz/)
 
 Není také naškodu podívat se na velice poučný web.
 
