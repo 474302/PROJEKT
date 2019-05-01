@@ -1,38 +1,25 @@
 ---
-title: Tvorba moodboardu pro náš web
-date: 2019-04-17
+title: (Otevřená) data pro projekt.
+date: 2019-04-30
 tags: 
-    - moodboard
-    - design
+    - data
+    - informace
 ---
 
 # Úvod
-Moodboards aneb, když tři rozliční lidé zakládají web
-V tomto článku najdete začátky našeho webu, když byl jeho vzhled ještě v plenkách a teprve získával pořádný web design. Vše podstatné se dozvíte níže od každé z nás, ykde najdete skutečnou diverzitu, jednak vizuální, ale i v praktickém popisu našich moodboardů.
+V tom to článku jsme se pokusili shrnout další externí zdroje, které by mohli dobře sloužit k rozšíření našich schopností. A tak by mohli dobře sloužit nám i našim čtenářům.
+## Inspirujte se
 
-## Moodboard 1
 
-[![jitka7e202103f292990b.png](https://www.2i.cz/images/2019/04/17/jitka7e202103f292990b.png)](https://www.2i.cz/i/fhYx8)
+[![https://www.patreon.com/AlysonTabbithaVid](https://www.patreon.com/AlysonTabbithaVid)](https://www.2i.cz/i/fhj1Z)
+ Nikdy není na škodu načerpat inspiraci u zkušenějších jedinců. 
 
- Opět jsem moodboard pochopila trošku jinak než většina obyvatelstva planety. 
 
- 
- Rozdělila jsem si ji totiž na tři kategorie: 
+## Názorné obrázky
+[![https://angelacostumery.com/](https://www.2i.cz/images/2019/04/17/anicka567824aca1a98778.png)](https://www.2i.cz/i/fhj1Z)
 
- 1. Barevné schéma 
-    - zde jsem se snažila pomocí barevných obrazců a popisků co nejvíce vystihnout, jak by jsem si představovala vizuální vzhled stránky
-    
- 2. Typ písma 
-    - popis proč jsem vybrala písmo jaké jsem vybrala a jeho náhledy
+Není také naškodu podívat se na velice poučný web.
 
- 3. Struktura a architektura stránky
-    - Snažila jsem se zahrnout různé prvky s popisky a ilustračními obrázky
-
-## Moodboard 2
-[![anicka567824aca1a98778.png](https://www.2i.cz/images/2019/04/17/anicka567824aca1a98778.png)](https://www.2i.cz/i/fhj1Z)
-
- V moodboardu jsem se snažila zachytit estetiku webu, ukázku záhlaví a navigace. Také jaké písmo by bylo vhodné a jak označit články pro větší přehlednost.
-
-## Moodboard 3
-[![paja.png](https://www.2i.cz/images/2019/04/17/paja.png)](https://www.2i.cz/i/fhkzM)
-V moodbordu jsem se snažila zachytit pár inspirativních prvků, které by se nám mohli hodit při tvorbě webu. Jako například barvy styli písma nebo inspirativní obrázky. Bohužel se zrovna nejedná o vhodný vzhled pro web, můj moodbord má spíše inspirační účely. 
+## Materiál
+[![https://www.burda-strihy.cz/](https://www.burda-strihy.cz/)](https://www.2i.cz/i/fhkzM)
+Kdyby jste neměli co číst ve svém volném čase. nebo kde hledat materiál
