@@ -2,6 +2,7 @@
   {{ .Content }}
 
   <h2>New articles</h2>
+  
 
   {{ range first 10 (where .Data.Pages "Section" "post") }}
   <li>
