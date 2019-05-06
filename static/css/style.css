@@ -11,6 +11,15 @@ header {
   /*změnit index aby nebyl nadpis jako odkaz */
 }
 
+/*rámeček*/
+div {
+  background-color: white;
+  width: 300px;
+  border: 15px white;
+  padding: 50px;
+  margin: 20px;
+}
+
 footer {
   border-top: solid;
   clear: both;
