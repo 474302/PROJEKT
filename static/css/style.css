@@ -19,16 +19,18 @@ div {
   padding: 50px;
   margin: 20px;
 }
-/*
+
 footer {
   border-top: solid;
+  border-top-color: white;
   clear: both;
-} */
+}
 
 .page {
   float: right;
   width: 70%;
-  /*border-left: solid;*/
+  border-left: solid;
+  border-left-color: white;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
