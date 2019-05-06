@@ -14,7 +14,7 @@ header {
 /*rámeček*/
 div {
   background-color: white;
-  width: 700px;
+  width: 1200px;
   border: 15px white;
   padding: 50px;
   margin: 20px;
@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6 {
   text-rendering: optimizeLegibility;
 }
 
-h1 { font-size: 2rem; }
+h1 { font-size: 3rem; }
 h2 { font-size: 1.70rem; }
 h3 { font-size: 1.65rem; }
 h4 { font-size: 1.25rem; }
