@@ -12,7 +12,7 @@ This is just another post. And it illustrates a mighty functionality.
 
 See how to include data inside your posts:
 
-## Beatles Discography
+### Beatles Discography
 
 {{< beatles >}}
 

@@ -1,9 +1,9 @@
 ---
 title: Jak vyzrát na cosplay
 ---
-# Úvod. 
+## Úvod. 
 
-## Ráda bych vytvořila web, který spíš než přesný postup a návod na konkrétní postavu, nabídne přehled technik s různým uplatněním. Právě to je něco, co na českém webu na jednom místě, dle mého názoru, chybí a mohlo by mnohým pomoci v jejich začátcích.
+### Ráda bych vytvořila web, který spíš než přesný postup a návod na konkrétní postavu, nabídne přehled technik s různým uplatněním. Právě to je něco, co na českém webu na jednom místě, dle mého názoru, chybí a mohlo by mnohým pomoci v jejich začátcích.
 
 Cosplay, složenina slov costume a play, se podle wikipedie řadí mezi umělecká představení. Nicménì nekonečně se rozšiřující cosplay subkultura už dlouhou dobu neomezuje cosplay pouze na jevištní parkety.
 Už přes tři desetiletí cosplay nabírá stále větší popularitu a masu fanouškù. Napomáhají tomu i rozšiřující se cony a festivaly, které se stávají tradiční už i nás.

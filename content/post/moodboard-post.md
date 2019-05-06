@@ -6,11 +6,11 @@ tags:
     - design
 ---
 
-# Úvod
+## Úvod
 Moodboards aneb, když tři rozliční lidé zakládají web
 V tomto článku najdete začátky našeho webu, když byl jeho vzhled ještě v plenkách a teprve získával pořádný web design. Vše podstatné se dozvíte níže od každé z nás, kde najdete skutečnou diverzitu, jednak vizuální, ale i v praktickém popisu našich moodboardů.
 
-## Moodboard 1
+### Moodboard 1
 
 [![jitka7e202103f292990b.png](https://www.2i.cz/images/2019/04/17/jitka7e202103f292990b.png)](https://www.2i.cz/i/fhYx8)
 
@@ -28,12 +28,12 @@ V tomto článku najdete začátky našeho webu, když byl jeho vzhled ještě v
  3. Struktura a architektura stránky
     - Snažila jsem se zahrnout různé prvky s popisky a ilustračními obrázky
 
-## Moodboard 2
+### Moodboard 2
 [![anicka567824aca1a98778.png](https://www.2i.cz/images/2019/04/17/anicka567824aca1a98778.png)](https://www.2i.cz/i/fhj1Z)
 
  V moodboardu jsem se snažila zachytit estetiku webu, ukázku záhlaví a navigace. Také jaké písmo by bylo vhodné a jak označit články pro větší přehlednost.
 
-## Moodboard 3
+### Moodboard 3
 [![paja.png](https://www.2i.cz/images/2019/04/17/paja.png)](https://www.2i.cz/i/fhkzM)
 <<<<<<< HEAD
 V moodbordu jsem se snažila zachytit pár inspirativních prvků, které by se nám mohli hodit při tvorbě webu. Jako například barvy styli písma nebo inspirativní obrázky. Bohužel se zrovna nejedná o vhodný vzhled pro web, můj moodbord má spíše inspirační účely. 
