@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Úvod
-V tom to článku jsme se pokusili shrnout další externí zdroje, které by mohli dobře sloužit k rozšíření našich schopností. A tak by mohli dobře sloužit nám i našim čtenářům.
+V tom to článku jsme se pokusily shrnout další externí zdroje, které by mohly dobře sloužit k rozšíření našich schopností. A tak by mohly dobře sloužit nám i našim čtenářům.
 ### Inspirujte se
 
 
@@ -22,4 +22,4 @@ Není také naškodu podívat se na velice poučný web.
 
 ### Materiál
 (https://www.burda-strihy.cz/) 
-Kdyby jste neměli co číst ve svém volném čase. nebo kde hledat materiál
+Tato stránka vám může přinést náhled na zajímavé střihy, které můžou být u vás doma za pár dní a ve praktické formě. Tato stránka určitě stojí za váš čas.
