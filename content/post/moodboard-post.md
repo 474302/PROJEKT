@@ -35,8 +35,7 @@ V tomto článku najdete začátky našeho webu, když byl jeho vzhled ještě v
 
 ### Moodboard 3
 [![paja.png](https://www.2i.cz/images/2019/04/17/paja.png)](https://www.2i.cz/i/fhkzM)
-<<<<<<< HEAD
-V moodbordu jsem se snažila zachytit pár inspirativních prvků, které by se nám mohli hodit při tvorbě webu. Jako například barvy styli písma nebo inspirativní obrázky. Bohužel se zrovna nejedná o vhodný vzhled pro web, můj moodbord má spíše inspirační účely. 
-=======
-V moodboardu jsem se snažila zachytit pár inspirativních prvků, které by se nám mohly hodit při tvorbě webu. Jako například barvy, styly písma nebo inspirativní obrázky. Bohužel se zrovna nejedná o vhodný vzhled pro web, můj moodboard má spíše inspirační účely. 
->>>>>>> master
+
+V moodboardu jsem se snažila zachytit pár inspirativních prvků, které by se nám mohly hodit při tvorbě webu. Jako například barvy styly písma nebo inspirativní obrázky. Bohužel se zrovna nejedná o vhodný vzhled pro web, můj moodbord má spíše inspirační účely. 
+
+
