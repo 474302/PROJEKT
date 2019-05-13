@@ -3,7 +3,7 @@
 title: Obarvení paruky pomocí akrylových barev
 date: 2019-05-13
 ---
-Ne vždy má cosplayer přirozenou délku nebo i barvu vlasů pro vytvoření zvoleného charakteru. To se dá, ale velmi jednoduše dohnat za pomocí paruky. Na trhu existují paruky všemožných barev, hustot a délek. Výběr vysněné paruky může, ale velmi zasáhnout do našich financí. My vám chceme tedy ukázat způsob jak si vytvořit paruku potřebné barvy a nezrujnovat si při tom peněženku. 
+Ne vždy má cosplayer přirozenou délku nebo i barvu vlasů pro vytvoření zvoleného charakteru. To se dá, ale velmi jednoduše dohnat za pomocí paruky. Na trhu existují paruky všemožných barev, hustot a délek. Výběr vysněné paruky může, ale velmi zasáhnout do našich financí. My vám chceme tedy ukázat způsob jak si vytvořit paruku potřebné barvy a nezruinovat si při tom peněženku. 
 
 #### Co k tomu budete potřebovat:
 
