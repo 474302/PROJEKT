@@ -16,5 +16,5 @@ date: 2019-05-14
     3) Hledejte materiály
     Teď už stačí pouze shánět materiály co nám poslouží při výrobě a nebojte se ne vše se vám povede na první pokus. V této části doporučuji hodně kávy a příjemnou muziku. A jedna dobrá rada cosplay se sice dá složit za 12 hodin před akcí na kterou ho připravujete, ale garantuji vám že vás to bude stát krev, pot a slzy. Tak svou práci nenechávejte na poslední chvíli.  
 
-
+![](2.jpg) 
 
