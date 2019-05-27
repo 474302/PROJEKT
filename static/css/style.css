@@ -16,10 +16,9 @@ aside {
   top:0;
   left:22.5%;
   position:absolute;
-  background-color: white;
+  background-color: #008080;
   float:center;
-  border-bottom:#008080 5px solid;
- 
+
 }
 
 nav ul {
@@ -37,7 +36,7 @@ nav li {
   margin-top:20px;
   font-size:18px;
   list-style:none;
-  color:#008080;
+  color:white;
 }
 
 h2 a{color:#008080;text-decoration:none;}
