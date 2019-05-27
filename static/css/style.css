@@ -15,7 +15,7 @@ aside {
   width: 1000px;
   top:0;
   left:0;
-  position:absolute;
+  position:center;
   background-color: white;
   float:center;
   border-bottom:#008080 5px solid;
@@ -24,7 +24,7 @@ aside {
 
 nav ul {
 
-  float:left;
+  float:center;
   display:inline;
   padding:10px;
   list-style:none;
@@ -70,10 +70,10 @@ footer {
 }
 
 .page {
-  float: right;
-  width: 100%;
-  border-left: solid;
-  border-left-color: white;
+  float: center;
+  width: 70%;
+ /* border-left: solid;
+  border-left-color: white; */
   padding-bottom: 2em;
   min-height: 400px;
 }
