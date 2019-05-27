@@ -14,8 +14,8 @@ header {
 aside {
   width: 1000px;
   top:0;
-  left:0;
-  position:center;
+  left:50%;
+  position:sticky;
   background-color: white;
   float:center;
   border-bottom:#008080 5px solid;
