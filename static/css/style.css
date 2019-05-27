@@ -12,19 +12,19 @@ header {
 }
 
 aside {
-  width: 1000px;
+  width: 100%;
   top:0;
   left:50%;
-  position:sticky;
+  position:absolute;
   background-color: white;
-  float:center;
+  float:left;
   border-bottom:#008080 5px solid;
  
 }
 
 nav ul {
 
-  float:center;
+  float:left;
   display:inline;
   padding:10px;
   list-style:none;
@@ -70,10 +70,10 @@ footer {
 }
 
 .page {
-  float: center;
+  float: right;
   width: 70%;
- /* border-left: solid;
-  border-left-color: white; */
+  border-left: solid;
+  border-left-color: white;
   padding-bottom: 2em;
   min-height: 400px;
 }
