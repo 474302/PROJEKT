@@ -11,28 +11,50 @@ header {
   /*změnit index aby nebyl nadpis jako odkaz */
 }
 
+aside {
+  width: 100%;
+  top:0;
+  left:0;
+  position:absolute;
+  background-color: black;
+  float:left;
+  border-bottom:#C60D25 3px solid;
+ 
+}
+
 nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+
+  float:left;
+  display:inline;
+  padding:10px;
+  list-style:none;
 }
 
 nav li {
-  float: left;
+  display:inline;
+  padding:10px;
+  list-style:none;
+  margin-top:20px;
+  font-size:18px;
+  list-style:none;
+  color:#C60D25;
+}
+nav li.srdce {position:absolute;top:0;right:5%; display:inline;color:white;
+  }
+.heart {color:#C60D25;}
+
+h2 a{color:#C60D25;text-decoration:none;}
+
+li a{color:#C60D25;text-decoration:none;}
+
+nav a {text-decoration: none; color:white;}
+nav a:hover {
+  color: #C60D25;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
+nav .active {
+  font-weight: bold;
 
-li a:hover {
-  background-color: #111;
 }
 
 /*rámeček*/
