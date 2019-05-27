@@ -12,9 +12,9 @@ header {
 }
 
 aside {
-  width: 70%;
+  width: 50%;
   top:0;
-  left:20%;
+  left:25%;
   position:absolute;
   background-color: white;
   float:center;
@@ -70,10 +70,8 @@ footer {
 }
 
 .page {
-  float: right;
+  float: center;
   width: 70%;
-  /*border-left: solid;
-  border-left-color: white;*/
   padding-bottom: 2em;
   min-height: 400px;
 }
