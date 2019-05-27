@@ -14,7 +14,7 @@ header {
 aside {
   width: 55.5%;
   top:0;
-  left:22.5%;
+  left:40%;
   position:absolute;
   background-color: #008080;
   float:center;
@@ -58,8 +58,7 @@ div {
   background-color: white;
   width: 1400px;
   border: 15px white;
-  padding: 50px;
-  padding-top: 50px;
+  padding: 100px;
   margin: 10px;
 }
 
