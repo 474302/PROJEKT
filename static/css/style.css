@@ -16,9 +16,9 @@ aside {
   top:0;
   left:0;
   position:absolute;
-  background-color: black;
+  background-color: white;
   float:left;
-  border-bottom:#C60D25 3px solid;
+  border-bottom:#008080 5px solid;
  
 }
 
@@ -37,19 +37,16 @@ nav li {
   margin-top:20px;
   font-size:18px;
   list-style:none;
-  color:#C60D25;
+  color:#008080;
 }
-nav li.srdce {position:absolute;top:0;right:5%; display:inline;color:white;
-  }
-.heart {color:#C60D25;}
 
-h2 a{color:#C60D25;text-decoration:none;}
+h2 a{color:#008080;text-decoration:none;}
 
-li a{color:#C60D25;text-decoration:none;}
+li a{color:#008080;text-decoration:none;}
 
-nav a {text-decoration: none; color:white;}
+nav a {text-decoration: none; color:008080;}
 nav a:hover {
-  color: #C60D25;
+  color: #008080;
 }
 
 nav .active {
