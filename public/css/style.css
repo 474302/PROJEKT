@@ -5,12 +5,24 @@
 }
 
 header {
-  padding: 30px 0 0;
-  border-bottom: solid;
+  /*padding: 30px 0 0;
+  border-bottom: solid;*/
+  text-align: center;
+  /*změnit index aby nebyl nadpis jako odkaz */
+}
+
+/*rámeček*/
+div {
+  background-color: white;
+  width: 1400px;
+  border: 15px white;
+  padding: 50px;
+  margin: 20px;
 }
 
 footer {
   border-top: solid;
+  border-top-color: white;
   clear: both;
 }
 
@@ -18,7 +30,7 @@ footer {
   float: right;
   width: 70%;
   border-left: solid;
-  padding-left: 1.5em;
+  border-left-color: white;
   padding-bottom: 2em;
   min-height: 400px;
 }
@@ -41,3 +53,120 @@ nav li {
 nav .active {
   font-weight: bold;
 }
+
+/*moje změny*/
+
+html {
+  padding: 2em;
+  
+  font: normal 18px/1.25 Verdana, sans-serif;
+  color: #000;
+  hyphens: auto;
+  word-wrap: break-word;
+  
+  background: #008080;
+}
+/*nadpisy*/
+h1,h2,h3,h4,h5,h6 {
+  line-height: 1;
+  margin: 0;
+  margin-top: 1.5rem;
+  text-rendering: optimizeLegibility;
+}
+
+h1 > a { font-size: 3rem;
+        text-decoration: none;
+        color:#008080; }
+h2 { font-size: 1.70rem; }
+h3 { font-size: 1.65rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.1rem; }
+h6 { font-size: 1rem; }
+
+
+img{max-width: 100%;
+    height: auto;}
+/*text*/
+
+p{
+  font-family: Verdana, helvetica, sans-serif;
+  font-size-adjust: 0.75rem;
+  margin-top: .75rem;
+  color:black;
+}
+
+
+hr{
+  margin: .75rem 0;
+  
+  opacity: .5;
+  
+}
+li{
+  padding: 0px;
+  list-style-type: none;
+  padding-bottom: 10px;
+}
+
+
+
+.description{
+  opacity: 0;
+}
+
+a: link{
+   font-family: verdana;
+   color: white;
+}
+
+a: visited {
+    color: grey;
+}
+
+blockquote {
+  border-left: 5px solid #333;
+  padding-left: .75em;
+  margin-left: calc(-.75em - 5px);
+  
+  font-style: italic;
+}
+/*tabulky*/
+table {
+  margin: .75rem 0;
+  padding: 0;
+  
+  border-collapse: collapse;
+}
+table tr {
+  margin: 0;
+  padding: 0;
+  
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+  table tr:nth-child(2n) {
+    background-color: #f8f8f8;
+  }
+
+table tr th {
+  margin: 0;
+  padding: .35em .75em;
+  
+  font-weight: bold;
+  text-align: left;
+  
+  border: 1px solid #ccc;
+}
+
+table tr td {
+  margin: 0;
+  padding: .35em .75em;
+  
+  text-align: left;
+  
+  border: 1px solid #ccc;
+}
+
+table tr th :first-child, table tr td :first-child { margin-top: 0; }
+table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
+

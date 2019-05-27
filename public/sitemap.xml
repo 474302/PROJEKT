@@ -3,75 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xyz.netlify.com/post/another-post/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/nejv%C4%9Bt%C5%A1%C3%AD-nep%C5%99%C3%ADtel-cosplayera-prokrastinace/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/clanek_jitka/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/worbla/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/open-data/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/moodboard-post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/another-post/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/post/welcome-to-hugo/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/welcome-to-hugo/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/error/404/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/error/404/</loc>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/about/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/post/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xyz.netlify.com/tags/beatles/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/beatles/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/categories/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/data/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/data/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/error/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/design/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/hello-world/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/error/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/hello-world/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xyz.netlify.com/tags/hugo/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/hugo/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/start/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/informace/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/moodboard/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/start/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/</loc>
+    <loc>https://jak-vyzrat-na-cosplay2.netlify.com/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

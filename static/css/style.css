@@ -35,20 +35,6 @@ footer {
   min-height: 400px;
 }
 
-aside {
-  float: left;
-  width: 25%;
-  margin-top: 1em;
-}
-
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-nav li {
-  margin-bottom: 1em;
-}
 
 nav .active {
   font-weight: bold;
