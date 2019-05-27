@@ -15,7 +15,7 @@ aside {
   width: 100%;
   top:0;
   left:20%;
-  position:static;
+  position:absolute;
   background-color: white;
   float:left;
   border-bottom:#008080 5px solid;
