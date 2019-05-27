@@ -59,7 +59,8 @@ div {
   width: 1400px;
   border: 15px white;
   padding: 50px;
-  margin: 50px;
+  padding-top: 50px;
+  margin: 10px;
 }
 
 footer {
