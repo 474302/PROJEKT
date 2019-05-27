@@ -72,8 +72,8 @@ footer {
 .page {
   float: right;
   width: 70%;
-  border-left: solid;
-  border-left-color: white;
+  /*border-left: solid;
+  border-left-color: white;*/
   padding-bottom: 2em;
   min-height: 400px;
 }
