@@ -12,12 +12,12 @@ header {
 }
 
 aside {
-  width: 100%;
+  width: 70%;
   top:0;
   left:20%;
   position:absolute;
   background-color: white;
-  float:left;
+  float:center;
   border-bottom:#008080 5px solid;
  
 }
