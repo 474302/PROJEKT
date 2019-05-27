@@ -14,7 +14,7 @@ header {
 aside {
   width: 60%;
   top:0;
-  left:25%;
+  left:23%;
   position:absolute;
   background-color: white;
   float:center;
@@ -73,7 +73,7 @@ footer {
   float: center;
   width: 70%;
   padding-bottom: 2em;
-  padding-left: 10px;
+  padding-right: 10px;
   min-height: 400px;
 }
 
