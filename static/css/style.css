@@ -11,13 +11,54 @@ header {
   /*změnit index aby nebyl nadpis jako odkaz */
 }
 
+aside {
+  width: 50%;
+  top:0;
+  left:34.5%;
+  position:absolute;
+  float:center;
+
+}
+
+nav ul {
+
+  float:left;
+  display:inline;
+  padding:10px;
+  list-style:none;
+}
+
+nav li {
+  display:inline;
+  padding:10px;
+  list-style:none;
+  margin-top:20px;
+  font-size:18px;
+  list-style:none;
+  color:white;
+}
+
+h2 a{color:#008080;text-decoration:none;}
+
+li a{color:#008080;text-decoration:none;}
+
+nav a {text-decoration: none; color:white;}
+nav a:hover {
+  color: #008080;
+}
+
+nav .active {
+  font-weight: bold;
+
+}
+
 /*rámeček*/
 div {
   background-color: white;
   width: 1400px;
   border: 15px white;
-  padding: 50px;
-  margin: 20px;
+  padding: 100px;
+  margin: 10px;
 }
 
 footer {
@@ -27,32 +68,17 @@ footer {
 }
 
 .page {
-  float: right;
+  float: center;
   width: 70%;
-  border-left: solid;
-  border-left-color: white;
   padding-bottom: 2em;
+  padding-right: 10px;
   min-height: 400px;
 }
 
-aside {
-  float: left;
-  width: 25%;
-  margin-top: 1em;
-}
-
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-nav li {
-  margin-bottom: 1em;
-}
-
+/*
 nav .active {
   font-weight: bold;
-}
+}/*
 
 /*moje změny*/
 

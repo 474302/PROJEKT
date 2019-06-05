@@ -11,6 +11,6 @@ Už přes tři desetiletí cosplay nabírá stále větší popularitu a masu fa
 Vrátíme-li se zpátky na jevištì, dostaneme se k populární, ne však nezbytné části cosplaye, totiž k soutěžím. Dalo by se říct, že exitují 4 základní kritéria hodnocení: Přesnost, Kvalita, Prezentace, Dopad na publikum.
 
 https://www.patreon.com/AlysonTabbithaVid (největší inspirace technik)
-https://www.reddit.com/r/cosplayprops/ (just to keep up with the crowd) https://www.prosikulky.cz/ (a to zní jakkoli infantilně a vybaví se vám věci jako e-mimino, snažilky, těhulky a jiný kraviny, tenhle web je fakt svatej grál pro šití a střihy!)
+https://www.reddit.com/r/cosplayprops/ (just to keep up with the crowd) https://www.prosikulky.cz/ (může to znít jakkoli infantilně a vybaví se vám věci jako e-mimino, snažilky, těhulky a jiný kraviny, tenhle web je fakt svatej grál pro šití a střihy!)
 
 

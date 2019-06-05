@@ -1,31 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archive on My New Hugo Site</title>
-    <link>https://xyz.netlify.com/post/</link>
-    <description>Recent content in Archive on My New Hugo Site</description>
+    <title>Archive on JAK VYZRÁT NA COSPLAY</title>
+    <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/</link>
+    <description>Recent content in Archive on JAK VYZRÁT NA COSPLAY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xyz.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jak-vyzrat-na-cosplay2.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Největší nepřítel cosplayera ?? Prokrastinace</title>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/nejv%C4%9Bt%C5%A1%C3%AD-nep%C5%99%C3%ADtel-cosplayera-prokrastinace/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/nejv%C4%9Bt%C5%A1%C3%AD-nep%C5%99%C3%ADtel-cosplayera-prokrastinace/</guid>
+      <description>Asi každý z nás už sledoval svůj oblíbený seriál nebo anime se zatajeným dechem a naprostým nadšením pro určitou postavu. A jakmile film nebo epizoda seriálu skončí člověk začne okamžitě googlit fotografie nebo obrázky svého nově objeveného vzoru. V hlavě si začnete přehrávat scénáře a své oblíbené scény ve vašem novém cosplayi. Jenomže pak přejde týden, měsíc a vaše velké sny skončí pouze u plánů. Proto vám tu uvedeme několik typů jak míru prokrastinace snížit, protože zcela vymýtit ji z života cosplayera zkrátka nejde tak hodně zdaru.</description>
+    </item>
+    
+    <item>
+      <title>Obarvení paruky pomocí akrylových barev</title>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/clanek_jitka/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/clanek_jitka/</guid>
+      <description>Ne vždy má cosplayer přirozenou délku nebo i barvu vlasů pro vytvoření zvoleného charakteru. To se dá, ale velmi jednoduše dohnat za pomocí paruky. Na trhu existují paruky všemožných barev, hustot a délek. Výběr vysněné paruky může, ale velmi zasáhnout do našich financí. My vám chceme tedy ukázat způsob jak si vytvořit paruku potřebné barvy a nezruinovat si při tom peněženku.
+Co k tomu budete potřebovat: Paruka – nejlépe blond (čím světlejší, tím lepší), kvalitu necháme na vás, ¨ ale výhodou akrylových barev je to, že paruku zbaví nepřirozeného lesku, takže i levná paruka za pár korun nebude vypadat dobře</description>
+    </item>
+    
+    <item>
+      <title>Začátky s worblou, nárámek/nátepník</title>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/worbla/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/worbla/</guid>
+      <description>Worbla je naprosto kouzelný materiál, který nebudu zbytečně dlouho představovat, jelikož se článek bude zabývat hlavně použitím, nikoli historií. Jediné, co je dobré vědět je, že jde o termoplast a společně s worblou je dobrý nápad si pořídit i horkovzdušnou pistoli, která z tuhého materiálu vytvoří poddajnou a tvárnou hmotu.
+Kromě worbly a pistole je třeba něco na výplň, já použila kus tenké gumové pěny, která se dá sehnat v běžných výtvarných potřebách.</description>
+    </item>
+    
+    <item>
+      <title>(Otevřená) data pro projekt.</title>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/open-data/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/open-data/</guid>
+      <description>Úvod V tom to článku jsme se pokusily shrnout další externí zdroje, které by mohly dobře sloužit k rozšíření našich schopností. A tak by mohly dobře sloužit nám i našim čtenářům.
+Inspirujte se (https://www.patreon.com/AlysonTabbithaVid) Nikdy není na škodu načerpat inspiraci u zkušenějších jedinců.
+Názorné obrázky (https://www.prosikulky.cz/)
+Není také naškodu podívat se na velice poučný web.
+Materiál (https://www.burda-strihy.cz/) Tato stránka vám může přinést náhled na zajímavé střihy, které můžou být u vás doma za pár dní a ve praktické formě.</description>
+    </item>
+    
+    <item>
+      <title>Tvorba moodboardu pro náš web</title>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/moodboard-post/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/moodboard-post/</guid>
+      <description>Úvod Moodboards aneb, když tři rozliční lidé zakládají web V tomto článku najdete začátky našeho webu, když byl jeho vzhled ještě v plenkách a teprve získával pořádný web design. Vše podstatné se dozvíte níže od každé z nás, kde najdete skutečnou diverzitu, jednak vizuální, ale i v praktickém popisu našich moodboardů.
+Moodboard 1 
+Opět jsem moodboard pochopila trošku jinak než většina obyvatelstva planety.
+Rozdělila jsem si ji totiž na tři kategorie:</description>
+    </item>
+    
+    <item>
       <title>All albums of The Beatles</title>
-      <link>https://xyz.netlify.com/post/another-post/</link>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/another-post/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/post/another-post/</guid>
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/another-post/</guid>
       <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Welcome to Hugo!</title>
-      <link>https://xyz.netlify.com/post/welcome-to-hugo/</link>
+      <link>https://jak-vyzrat-na-cosplay2.netlify.com/post/welcome-to-hugo/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/post/welcome-to-hugo/</guid>
+      <guid>https://jak-vyzrat-na-cosplay2.netlify.com/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
     </item>

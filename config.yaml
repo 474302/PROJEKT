@@ -9,12 +9,11 @@ menu:
       url: /
       googleAnalytics: "UA-139302584-1"
       weight: 10
-    - name: Archív
+    - name: Šuplík s články
       identifier: post
       url: /post/
       weight: 20
 
 params:
   description: 
-  authors: Autoři
-
+  authors: 
